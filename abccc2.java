@@ -2,7 +2,8 @@ package asd2;
 
 public class abccc2 {
 	public static void main(String args[])
-	{
+	{     
+	
 		int intval;
 		float fval;
 		double dval;
